@@ -62,12 +62,11 @@ public class BackgroundService extends IntentService implements GoogleApiClient.
 
     @Override
     protected void onHandleIntent(Intent intent) {
-        Toast.makeText(this, "onhandleintent", Toast.LENGTH_SHORT).show();
         requestQueue = Volley.newRequestQueue(context);
         sessionStateManager = new SessionStateManager(context);
         currentUser = sessionStateManager.getCurrentUser();
 
-        mHandler.postDelayed(ToastRunnable, 5000);
+        mHandler.postDelayed(ToastRunnable, Keys.KEY_TIME_UPDATE);
 
 
         if (mGoogleApiClient == null) {
@@ -98,7 +97,7 @@ public class BackgroundService extends IntentService implements GoogleApiClient.
                 e.printStackTrace();
             }
 
-            mHandler.postDelayed(ToastRunnable, 5000);
+            mHandler.postDelayed(ToastRunnable, Keys.KEY_TIME_UPDATE);
 
         }
     };
