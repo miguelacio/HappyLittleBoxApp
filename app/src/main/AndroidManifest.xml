@@ -40,14 +40,6 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".MapsActivity"
-            android:label="@string/title_activity_maps"
-            android:screenOrientation="portrait">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="mx.happylittlebox.repartidor.happylittleboxapp.MainActivity" />
-        </activity>
-        <activity
             android:name=".DetailActivity"
             android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait"/>
