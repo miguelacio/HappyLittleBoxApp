@@ -41,6 +41,7 @@ public class Keys {
     public static final String KEY_CANTIDAD = "cantidad";
     public static final String KEY_PRODUCTO_NOMBRE = "producto_nombre";
     public static final String KEY_PRODUCTO_ID = "producto_id";
+    public static final String KEY_FECHA_VENTA = "fecha_venta";
 
 
     //USER

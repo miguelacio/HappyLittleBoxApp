@@ -39,7 +39,7 @@ import io.realm.Realm;
 import io.realm.RealmList;
 import mx.happylittlebox.repartidor.happylittleboxapp.models.Order;
 import mx.happylittlebox.repartidor.happylittleboxapp.models.User;
-import mx.happylittlebox.repartidor.happylittleboxapp.utils.BackgroundService;
+import mx.happylittlebox.repartidor.happylittleboxapp.utils.AlwaysRunningBackgroundService;
 import mx.happylittlebox.repartidor.happylittleboxapp.utils.DialogUtil;
 import mx.happylittlebox.repartidor.happylittleboxapp.utils.JSONParser;
 import mx.happylittlebox.repartidor.happylittleboxapp.utils.Keys;
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements OrderAdapter.Orde
 
             return;
         }
-        startService(new Intent(this, BackgroundService.class));;
+        startService(new Intent(this, AlwaysRunningBackgroundService.class));;
 
 
     }
@@ -152,6 +152,7 @@ public class MainActivity extends AppCompatActivity implements OrderAdapter.Orde
                 builder.setPositiveButton("Si", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
+                        stopService(new Intent(MainActivity.this, AlwaysRunningBackgroundService.class));
                         sessionStateManager.logOut();
                         Intent intent = new Intent(MainActivity.this, LoginActivity.class);
                         startActivity(intent);
@@ -178,4 +179,6 @@ public class MainActivity extends AppCompatActivity implements OrderAdapter.Orde
         intent.putExtra("id", order.getId());
         startActivity(intent);
     }
+
+
 }

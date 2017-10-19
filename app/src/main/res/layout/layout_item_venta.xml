@@ -59,7 +59,26 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="Fecha hora"
+            android:id="@+id/text_view_fecha_hora"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
             android:text="Ver pedido >"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="estatus "
+            android:id="@+id/text_view_estado"
+            android:layout_alignParentBottom="true"
             android:layout_marginRight="10dp"
             android:layout_centerVertical="true"
             android:layout_height="wrap_content" />

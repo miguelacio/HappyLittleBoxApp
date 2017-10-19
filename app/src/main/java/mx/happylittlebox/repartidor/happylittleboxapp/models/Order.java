@@ -25,6 +25,7 @@ public class Order extends RealmObject{
     private String direccion_colonia;
     private String direccion_cp;
     private String direccion_estado;
+    private String fecha_venta;
     private String direccion_ciudad;
     private RealmList<Product> productArrayList;
 
@@ -43,6 +44,7 @@ public class Order extends RealmObject{
         this.direccion_cp = "";
         this.direccion_estado = "";
         this.direccion_ciudad = "";
+        this.fecha_venta = "";
         this.productArrayList = new RealmList<>();
     }
 
@@ -60,6 +62,14 @@ public class Order extends RealmObject{
 
     public void setRepartidor_id(String repartidor_id) {
         this.repartidor_id = repartidor_id;
+    }
+
+    public String getFecha_venta() {
+        return fecha_venta;
+    }
+
+    public void setFecha_venta(String fecha_venta) {
+        this.fecha_venta = fecha_venta;
     }
 
     public String getVenta_id() {

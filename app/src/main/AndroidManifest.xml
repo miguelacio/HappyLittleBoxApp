@@ -9,10 +9,10 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_launcher_hlb"
         android:name="android.support.multidex.MultiDexApplication"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_launcher_hlb"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
@@ -45,9 +45,10 @@
             android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait"/>
 
+
         <service
-            android:name=".utils.BackgroundService"
-            android:label="BackgrounndService" >
+            android:name=".utils.AlwaysRunningBackgroundService"
+            android:label="AlwaysRunningBackgroundService" >
         </service>
     </application>
 

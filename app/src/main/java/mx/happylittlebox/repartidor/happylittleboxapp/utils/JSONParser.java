@@ -55,6 +55,8 @@ public class JSONParser {
             JSONObject jsonObjectVenta = jsonObjectOrder.getJSONObject(Keys.KEY_VENTA);
             o = new Order();
             o.setId(jsonObjectOrder.getString(Keys.KEY_VENTA_ID));
+            o.setStatus(jsonObjectOrder.getString(Keys.KEY_STATUS));
+            o.setFecha_venta(jsonObjectVenta.getString(Keys.KEY_FECHA_VENTA));
             o.setLatitude(jsonObjectVenta.getString(Keys.KEY_LATITUDE));
             o.setLongitude(jsonObjectVenta.getString(Keys.KEY_LONGITUDE));
             o.setLatitude(jsonObjectVenta.getString(Keys.KEY_LATITUDE));

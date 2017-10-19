@@ -3,15 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/miguelacio/.android/build-cache/98934990e54d956e037dcfb2160922cabf2e4a00/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32bfe49d4ba2b407aeddbaf8c3c4302f4bf13a66/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -25,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="6cc9924d56624e8352e0ad6b914f85783c16ba46">
+        sha1="19395399f24d74a6ffe134cb15a9e93335d27f73">
         <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8eb9eca70ff1609773838757908d867aba45e505/classes.dex" />
     </item>
 

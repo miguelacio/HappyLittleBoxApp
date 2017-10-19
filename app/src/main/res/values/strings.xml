@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HappyLittleBoxApp</string>
+    <string name="app_name">HLB Repartidor</string>
     <string name="title_activity_maps">Map</string>
     <string name="logOut">Cerrar Sesión</string>
     <string name="noOrders">No hay órdenes</string>

@@ -41,6 +41,8 @@ public class OrderAdapter extends RecyclerView.Adapter<OrderAdapter.ViewHolder> 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
         final Order order = orderArrayList.get(position);
+        holder.textViewEstado.setText(order.getStatus());
+        holder.textViewFechaHora.setText(order.getFecha_venta());
         holder.textViewNombrePedido1.setText(order.getProductArrayList().get(0).getName());
         holder.textViewNumeroPedido1.setText(order.getProductArrayList().get(0).getCantidad() + " ");
         int sizeProducts = order.getProductArrayList().size();
@@ -71,12 +73,15 @@ public class OrderAdapter extends RecyclerView.Adapter<OrderAdapter.ViewHolder> 
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
+
         TextView textViewNumeroPedido1,
                 textViewNumeroPedido2,
                 textViewNumeroPedido3,
                 textViewNombrePedido1,
                 textViewNombrePedido2,
-                textViewNombrePedido3;
+                textViewNombrePedido3,
+                textViewFechaHora,
+                textViewEstado;
         View clickView;
 
         public ViewHolder(View itemView) {
@@ -87,6 +92,8 @@ public class OrderAdapter extends RecyclerView.Adapter<OrderAdapter.ViewHolder> 
             this.textViewNumeroPedido1 = itemView.findViewById(R.id.text_view_number_pedido_1);
             this.textViewNumeroPedido2 = itemView.findViewById(R.id.text_view_number_pedido_2);
             this.textViewNumeroPedido3 = itemView.findViewById(R.id.text_view_number_pedido_3);
+            this.textViewFechaHora = itemView.findViewById(R.id.text_view_fecha_hora);
+            this.textViewEstado = itemView.findViewById(R.id.text_view_estado);
             this.clickView = itemView.findViewById(R.id.click_view_ruta);
         }
     }
