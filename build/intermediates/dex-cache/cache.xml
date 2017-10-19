@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/d98e100e51119a72409733e3937b972ac9232898/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d05019c610ec9f1e14b2bc4d1b061f0fc8c9b9a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/d34ce0b62e764af7b0083ac41f4525f60573f773/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_479becdcffe4b6768d7f095c08a50a36747ad187/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/4e77b2e587aec18b6f05bbd5c90ca3a6c31e2301/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34f8201fa43dcaddd3c084e8a5743567be25fa1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/7d577c16217b694f516aa2cdc1291dc598a97031/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4661a05c9ddead0867fd05c3b92863f7c1aadf40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/3e7d071e7eb07c9efbdb8552c978c7c6df660e63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c69cb23f2fb8f68034be2ef8fd22049e9d1a605f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/8a556629198c04a8ef2ee2a2be9de402b4e57d87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b51e0d8e6d8df40e1f7a007d653152560dbf7ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/f1cd7a20133eb7c7fde9d00dca2e3441fcb26a0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88e4a4f1ceace744e4bbf0041b873c9e1cf8ee59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/887498f9c90f399b356c1086bd0f4d31db16e332/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12638570278c3e3ddad5cdba1e8bfce07f1fd379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/ee4b9858195c64ae5db7df767fd804cdeb08ff12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f730f22964af62eda8da3ec64ae33750089c84f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/5bd62e4414c93a1094c5d9c59a7ccf680520022a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3458797405efa539a3d998c1ead75a4b56bfef16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/2a63fc108a3a4787615798b3285e9c7262bbda89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0177f25fe1476e6bd0fb5dfa7068522686a83f4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/913c0074f2324271533dc6fee0c88d44c84e5d09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7380d34fa77363b8b103d7e46fbc37c65ee71f73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0ae4f4fa692b256d3c65dad1f4fbc314cb946754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/32f96c95dfb03c2e7effbe463c9b3b15328de8e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbfb2785e13253ae4ca89b13702f5cc2acec8705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/ed775da21767a3dc3f2f9b515ad3ee6e7390707b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc6f91a08bfa603edc2b039388e7671dd67379fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/5e88ba8880fd9aba7337090eb782b46b9e5d4a55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_459445b9faf220b3316182b3eb9a3cf14b82f94b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/593ebd0622243e0e5a4438fc95db57046263f26a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58b9b7983217ce514315c49701adbd2d93024050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/2fb6cf5c249d37cd12eed327c25477f58dd9cb8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a9fc6c2fba132c50ed7a376fc5dd532c02c624f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/5515bfc674d8ec5b546eab368f4a697c9db4ffd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e65c46bf6508dd555a4e62285b90d2bee67bd5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/99b092f973ecd8dc0b0d4bd193377735bb7b8c6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f28bc15fbb577eaffcad84f43313b2193c8f3549/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/01a3824d33153479093d6beb560773ab6ce4e6e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b57f0adb40bcea9192be6cb09a725510ff17b561/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/3e0c7a424115de49ad27cdcb747d9f28d152d8ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_743fd61030df933bcf42ff3f76b269ceb66761e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/8a953833ce18dfd480ec886dcfe663b0bb7c98a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fd39f7e1a90e6c8afc9579dbb123ec0ee67d883/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/5142034c846322e47777358ec88e01245a8fc6fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a58de5545310cc94d8478a015bf8a3a14063c9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/88f6faf07882559afd02bcff06af3a9f811c6c13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5645cf32c2f7a4b8f84553281f3a0ea75f7b31f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/7a04c6cff9a0120e9fb6bd4e5475af623676c2a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1557bdaac00b134ee75f6d6f527bd4e390309729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/33e57bb90fd9aa19dc38ec9225504af6bec0caf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd233aaac719887064d4936f1375b725ea9d3585/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/1b53faf2bcc9d3e0de54205a6cf95e55b7e07d0d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_609b088deba31bf1fad499c474d54e98574634ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/7e7c385528d7ae042382120caff70efcb5f05294/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5a9f82cd6ce2533db89b6431f90092f8b8eaab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/d673505eddbbf95c838688343217084f96f6cf8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bc1f218842f0f4c9585ac53a8b87922cdfae9ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/8351f9f961b2b8920bb90f78a1bc2e4c08aef989/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_262c4af4b0ca5016012a3746e1473ca4e1e69591/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/0ed50b7ebf876e3e51cad9376085972aa9ff29c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_737fcb60b8a074b16b06d0acb6c5955de5bdf19d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/93e029e07e938a878a41c488b60bae297709a36c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf91a0e8afb7689210162504f0c5142f45993266/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/03afdad78d3bb381313d5976860ed305f6018a8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cda55e51efc2e067328f3a9e8f654c2b782f9cfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/31d7a46419bee25c913efb25c07344dc32629a3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a59a6bb7c7c63378798d232a413b2ca3780f5bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/2d33da5996159bb7428018c5e9e4d2d096aa8500/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6f07c1a8155faec13142766835f45c80643d6e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/dd6d9118e9c705f221b08eb9aed64ff3e269bc1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12c7f039b31010d45c9946d5438a4e77ddf2d9db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/5ca1254750bb67ebe00500c2c566aa21eb0d12fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b2c535f756ae974fb739647ceffc81ca10341d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2ccb7713605587651ba82220f895fad1b9a78055">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8eb9eca70ff1609773838757908d867aba45e505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/0ead31762023577a1782f8f4c443ac82ca56320e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1aacff70be09715ae175f51d35b242fa8aa5a34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/9eaf04250a7ffab71eb35b510a7e6fc5e9c05be2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37f2ce8d7ce2583b16670eefa19f8071f9923a8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/f3e469b9c4cc6e6c0e66cd1ca8489fc2a3697f85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cdf7998d4e53cb9b901b6a19ba9b1c7e9b751be6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/4d6550e4142737ae315d666a1c9ac8e8dc8ff4b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3248dbd94d70c3d82f524dee83c3d67f4f9d4d32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/f617bb66efdba40ed6302c610d44b737a7f28222/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12bfdc1e35b5397fe2a50a4cda2310cddc86591b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/8fa2711ef8c7c6f4e31df3f09cd40df887db1ad1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab70fa4dea9818befe0bc8c4ab53f1e636f4ccc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/f39a925fadc2ba6862089bc7ae806b9f4f3c1584/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9be2333868901fa46a7c728e9813c55900d9b488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/56556f1bd56648a61324b8ad3d573301f66d9213/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bd9ec7b4008fd8ea31b8195cdc5ed4df6b89514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/53cae006baffc5d924a73ed82fad8438164048fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3937ee372381e40a3aa42dda56c04b877d5ebc09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/157bd5cf1198bd4df0fe57dc704c44798981e208/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64bba878d40ab6a5d1d07a8795af9aa51b869533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/08c170c93043879c820e971a214b231c72ec5bb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c5f710e5fba904d243665f552769801ac17a24f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miguelacio/.android/build-cache/fef298c2feedbd17de40d40d6455895cb7bf9282/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/miguelacio/AndroidStudioProjects/HappyLittleBoxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52a6f96176c03f66d69c9e2fe67ed47b883245af/classes.dex" />
+    </item>
+
+</items>

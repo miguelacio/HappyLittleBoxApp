@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mx.happylittlebox.repartidor.happylittleboxapp.DetailActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/layout_buttons">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/text_view_label_direccion"
+            android:textSize="9pt"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="Dirección:" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/text_view_direccion"
+            android:textSize="8pt"
+            android:layout_height="wrap_content"
+            android:text="calle calle:" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/text_view_product"
+            android:textSize="9pt"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="Productos:" />
+
+        <android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/productos_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:backgroundTint="#FFF"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/layout_buttons"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/button_change_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cambiar estado" />
+
+        <Button
+            android:id="@+id/button_go_to_map"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ver punto en el mapa" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
