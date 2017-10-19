@@ -106,7 +106,6 @@ public class BackgroundService extends IntentService implements GoogleApiClient.
     @Override
     public void onConnected(@Nullable Bundle bundle) {
         mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
-        Toast.makeText(this, mLastLocation.toString(), Toast.LENGTH_SHORT).show();
     }
 
     @Override

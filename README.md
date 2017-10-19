@@ -13,7 +13,6 @@ Run > Run app
 El archivo de configuraciones está localizado en HappyLittleBoxApp/app/src/main/java/mx/happylittlebox/repartidor/happylittleboxapp/utils/Keys.java
 
 ### authors
-@miguelacio
-https://twitter.com/Sacrebleubleu
+@Miguelfloresroch 
 
 
